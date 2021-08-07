@@ -12,6 +12,7 @@ https://youtu.be/Xbwk51T7v9s
 
 ## 팀원 소개
 Front - 권오현, 김명준, 전건우
+
 Back - 김정연, 배찬영, 장동국
 
 ## 메인 서비스
